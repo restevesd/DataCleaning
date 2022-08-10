@@ -25759,3 +25759,24 @@ ride_id;duration;station_A_id;station_A_name;station_B_id;station_B_name;bike_id
 500;13 minutes;5;Powell St BART Station (Market St at 5th St);70;Central Ave at Fell St;5200;3;1961;Male;27;5/9/2021
 500;8 minutes;22;Howard St at Beale St;8;The Embarcadero at Vallejo St;5371;2;1983;Male;28;23/6/2022
 500;8 minutes;16;Steuart St at Market St;93;4th St at Mission Bay Blvd S;4959;3;1982;Male;30;30/12/2021
+1;11 minutes;30;San Francisco Caltrain (Townsend St at 4th St);22;Howard St at Beale St;5282;2;1994;Male;28;18/12/2021
+500;17 minutes;5;Powell St BART Station (Market St at 5th St);53;Grove St at Divisadero;5529;1;1989;Female;30;25/8/2021
+3;20 minutes;3;Powell St BART Station (Market St at 4th St);6;The Embarcadero at Sansome St;443;1;1985;Female;26;22/10/2021
+3;9 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);92;Mission Bay Kids Park;4400;2;1984;Male;29;13/3/2022
+3;13 minutes;30;San Francisco Caltrain (Townsend St at 4th St);59;S Van Ness Ave at Market St;5149;2;1991;Male;28;21/9/2021
+3;10 minutes;21;Montgomery St BART Station (Market St at 2nd St);6;The Embarcadero at Sansome St;5377;1;1984;Male;26;19/8/2021
+3;16 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);115;Jackson Playground;4637;2;1987;Male;30;5/5/2022
+3;13 minutes;22;Howard St at Beale St;116;Mississippi St at 17th St;5498;1;1990;Male;29;1/3/2023
+3;3 minutes;21;Montgomery St BART Station (Market St at 2nd St);343;Bryant St at 2nd St;5489;3;1990;Male;27;5/9/2021
+3;14 minutes;3;Powell St BART Station (Market St at 4th St);90;Townsend St at 7th St;1370;2;1988;Female;25;17/11/2022
+3;6 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);26;1st St at Folsom St;5559;2;1975;Male;28;6/5/2022
+3;17 minutes;16;Steuart St at Market St;74;Laguna St at Hayes St;4606;2;1997;Male;29;13/1/2022
+376;10 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);30;San Francisco Caltrain (Townsend St at 4th St);4329;2;1990;Male;28;26/3/2022
+376;5 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);25;Howard St at 2nd St;2992;1;1986;Male;27;21/3/2023
+376;7 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);50;2nd St at Townsend St;5055;3;1953;Male;27;7/9/2022
+376;4 minutes;16;Steuart St at Market St;28;The Embarcadero at Bryant St;5396;2;1990;Female;29;16/6/2023
+376;9 minutes;67;San Francisco Caltrain Station 2  (Townsend St at 4th St);15;San Francisco Ferry Building (Harry Bridges Plaza);5281;2;1985;Male;29;28/5/2023
+376;7 minutes;16;Steuart St at Market St;6;The Embarcadero at Sansome St;2743;3;1979;Male;27;20/12/2022
+376;10 minutes;15;San Francisco Ferry Building (Harry Bridges Plaza);30;San Francisco Caltrain (Townsend St at 4th St);5368;2;1991;Male;29;21/7/2022
+376;12 minutes;22;Howard St at Beale St;6;The Embarcadero at Sansome St;5036;2;1979;Male;30;27/7/2023
+376;36 minutes;5;Powell St BART Station (Market St at 5th St);361;Mendell St at Fairfax Ave;5274;1;1989;Other;30;14/5/2023
